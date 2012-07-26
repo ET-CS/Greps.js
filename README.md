@@ -1,4 +1,4 @@
 Greps.js
 ========
 
-Node.js web-server framework
+Node.js web-server framework.
